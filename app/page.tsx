@@ -1,11 +1,9 @@
-import { Section } from "@/components/layout/section";
+import { Header } from '@/components/header';
 
 export default function HomePage() {
   return (
-    <main className="flex flex-col min-h-screen">
-      <Section>
-        Hello Elo 7!
-      </Section>
+    <main className="flex min-h-screen flex-col">
+      <Header />
     </main>
   );
 }
