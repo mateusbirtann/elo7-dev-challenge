@@ -2,6 +2,34 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://images.elo7.com.br/assets/v3/fonts/museo-sans-100-webfont.woff2');
+@import url('https://images.elo7.com.br/assets/v3/fonts/museo-sans-300-webfont.woff2');
+@import url('https://images.elo7.com.br/assets/v3/fonts/museo-sans-500-webfont.woff2');
+
+@font-face {
+  font-family: 'Museo Sans';
+  src: url('https://images.elo7.com.br/assets/v3/fonts/museo-sans-100-webfont.woff2')
+    format('woff2');
+  font-weight: 100;
+  font-style: thin;
+}
+
+@font-face {
+  font-family: 'Museo Sans';
+  src: url('https://images.elo7.com.br/assets/v3/fonts/museo-sans-300-webfont.woff2')
+    format('woff2');
+  font-weight: 300;
+  font-style: light;
+}
+
+@font-face {
+  font-family: 'Museo Sans';
+  src: url('https://images.elo7.com.br/assets/v3/fonts/museo-sans-500-webfont.woff2')
+    format('woff2');
+  font-weight: 500;
+  font-style: medium;
+}
+
 @layer base {
   :root {
     --background: 0 0% 100%;
