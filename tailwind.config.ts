@@ -58,7 +58,7 @@ const config = {
         brand: {
           dark: '#333333',
           teal: '#008B90',
-          gray: '57575C',
+          gray: '#57575C',
           orange: {
             100: '#FFF3DB',
             400: '#FDB933',

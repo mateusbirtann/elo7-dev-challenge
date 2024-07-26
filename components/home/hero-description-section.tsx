@@ -7,7 +7,7 @@ export function HeroDescriptionSection() {
   return (
     <Section dataTestId="hero-description-section" className="mb-10 mt-8">
       <div className="flex flex-col gap-6">
-        <p className="font-medium text-brand-dark md:text-2xl">
+        <p className="text-center font-medium text-brand-dark md:text-2xl">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et viverra orci.
           Praesent consequat dolor tellus, eget viverra risus hendrerit non. Sed rutrum condimentum
           maximus. Donec pellentesque libero eu eros sagittis.
