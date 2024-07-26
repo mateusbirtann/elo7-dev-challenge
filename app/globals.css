@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://images.elo7.com.br/assets/v3/fonts/museo-sans-100-webfont.woff2');
-@import url('https://images.elo7.com.br/assets/v3/fonts/museo-sans-300-webfont.woff2');
-@import url('https://images.elo7.com.br/assets/v3/fonts/museo-sans-500-webfont.woff2');
-
 @font-face {
   font-family: 'Museo Sans';
   src: url('https://images.elo7.com.br/assets/v3/fonts/museo-sans-100-webfont.woff2')
