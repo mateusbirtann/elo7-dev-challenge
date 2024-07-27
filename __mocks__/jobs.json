@@ -1,0 +1,88 @@
+{
+  "jobs": [
+    {
+      "title": "Especialista de fp&a",
+      "type": "financeiro",
+      "level": "especialista",
+      "location": "São Paulo, Brasil",
+      "is_active": true
+    },
+    {
+      "title": "Estágio em riscos e controles internos",
+      "type": "controles internos",
+      "level": "estágio",
+      "location": "São Paulo, Brasil",
+      "is_active": true
+    },
+    {
+      "title": "Gerente de produto",
+      "type": "produto",
+      "level": "pleno",
+      "location": "São Paulo, Brasil",
+      "is_active": true
+    },
+    {
+      "title": "Pessoa analista de data analytics",
+      "type": "engenharia",
+      "level": "pleno",
+      "location": "São Paulo, Brasil",
+      "is_active": true
+    },
+    {
+      "title": "Pessoa analista de gestão de parceiros",
+      "type": "operacional",
+      "level": "senior",
+      "location": "São Paulo, Brasil",
+      "is_active": true
+    },
+    {
+      "title": "Pessoa coordenadora de engenharia de dados",
+      "type": "engenharia",
+      "level": "senior",
+      "location": "Remoto",
+      "is_active": true
+    },
+    {
+      "title": "Pessoa engenheira de dados",
+      "type": "engenharia",
+      "level": "junior",
+      "location": "Remoto",
+      "is_active": true
+    },
+    {
+      "title": "Pessoa engenheira de sre/devops",
+      "type": "engenharia",
+      "level": "senior",
+      "location": "Remoto",
+      "is_active": true
+    },
+    {
+      "title": "Pessoa engenheira devops",
+      "type": "engenharia",
+      "level": "pleno",
+      "location": "Remoto",
+      "is_active": true
+    },
+    {
+      "title": "Pessoa desenvolvedora front-end",
+      "type": "engenharia",
+      "level": "senior",
+      "location": "Remoto",
+      "is_active": true
+    },
+    {
+      "title": "Pessoa desenvolvedora mobile (android e ios)",
+      "type": "engenharia",
+      "level": "senior",
+      "location": "Remoto",
+      "is_active": false
+    },
+    {
+      "title": "Pessoa desenvolvedora java",
+      "type": "engenharia",
+      "level": "pleno",
+      "location": "Remoto",
+      "is_active": false
+    }
+  ]
+}
