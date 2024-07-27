@@ -12,7 +12,7 @@ export function TeamSection() {
             key={index}
             src={member.src}
             alt={member.alt}
-            className="h-[183px] w-[320px] rounded-lg object-cover"
+            className="h-[183px] w-[320px] rounded-lg object-cover mx-auto"
             width={320}
             height={183}
           />
