@@ -1,15 +1,8 @@
 'use client';
 
+import { Job } from '@/types';
 import { ColumnDef } from '@tanstack/react-table';
 import { ReactNode } from 'react';
-
-export type Job = {
-  title: string;
-  type: string;
-  level: string;
-  location: string | null;
-  is_active: boolean;
-};
 
 export const columns: ColumnDef<Job>[] = [
   {

@@ -58,7 +58,6 @@ export function JobsDataTable<TData, TValue>({ columns, data }: JobsDataTablePro
             table.getRowModel().rows.map((row) => (
               <TableRow
                 key={row.id}
-                data-state={row.getIsSelected() && 'selected'}
                 className="flex cursor-pointer flex-col md:flex-row md:justify-between"
               >
                 {row.getVisibleCells().map((cell) => (
