@@ -1,6 +1,6 @@
 export function Header() {
   return (
-    <section
+    <header
       className="relative h-[259px] bg-header-mobile bg-cover bg-top md:h-[499px] md:bg-header-desktop"
       data-testid="header"
     >
@@ -9,6 +9,6 @@ export function Header() {
           trabalhe no elo7
         </h1>
       </div>
-    </section>
+    </header>
   );
 }
